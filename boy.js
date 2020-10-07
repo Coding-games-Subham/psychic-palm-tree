@@ -1,7 +1,7 @@
 class Boy{
     constructor(){
         
-this.image = loadImage("Plucking mangoes/boy.png");
+this.image = loadImage("boy.png");
        
     }
     display(){
